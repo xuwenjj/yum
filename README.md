@@ -1,0 +1,2 @@
+# yum
+mount yum
